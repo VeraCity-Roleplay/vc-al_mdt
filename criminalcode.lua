@@ -48,7 +48,7 @@ Config.MDT.CriminalCode = {
                     time = 240,
                     label = "240 Months - $150,000"
                 },
-                description = "“Aircraft Piracy" means seizing or exercising control of an aircraft in the special aircraft jurisdiction of the United States by force, violence, threat of force or violence, or any form of intimidation, and with wrongful intent."
+                description = '"Aircraft Piracy" means seizing or exercising control of an aircraft in the special aircraft jurisdiction of the United States by force, violence, threat of force or violence, or any form of intimidation, and with wrongful intent.'
             },
             {
                 offense = "F.O.5 - Capital Conspiracy",
@@ -298,7 +298,7 @@ Config.MDT.CriminalCode = {
                     time = 140,
                     label = "140 Months - $200,000"
                 },
-                description = "1. Any projectile containing explosive or incendiary material, including the type of ammo known as “tracer ammunition" (other than tracer ammunition designed for use in shotguns), 2. Any bomb, grenade, explosive missile, or similar device, or any device for launching such a weapon."
+                description = '1. Any projectile containing explosive or incendiary material, including the type of ammo known as “tracer ammunition" (other than tracer ammunition designed for use in shotguns), 2. Any bomb, grenade, explosive missile, or similar device, or any device for launching such a weapon.'
             },
 			{
                 offense = "F2.10 - Firearm Smuggling",
@@ -957,7 +957,7 @@ Config.MDT.CriminalCode = {
                     time = 120,
                     label = "120 Months - $100,000"
                 },
-                description = "Every person who commits second-degree burglary during, and within an affected county, in a “state of emergency" or a “local emergency" resulting from an earthquake, fire, flood, riot, or other natural or man-made disaster shall be guilty of the crime of looting."
+                description = 'Every person who commits second-degree burglary during, and within an affected county, in a “state of emergency" or a “local emergency" resulting from an earthquake, fire, flood, riot, or other natural or man-made disaster shall be guilty of the crime of looting.'
 			},
 			{
                 offense = "F3.35 - Habitual Trespassing",
