@@ -978,13 +978,25 @@ Config.MDT.CriminalCode = {
                     label = "20 Months - $50,000"
                 },
                 description = "When a probationer does not follow the conditions of probation, or commits another crime while on probation."
+			},
 
 
 
 
 
+		--// TEMPLATE FOR CHARGE
 
-
+			-- {
+                -- offense = "F3.36 - Violation of Probation",
+                -- class = "Felony",
+                -- punishment = {
+                    -- fine = 50000,
+                    -- time = 20,
+                    -- label = "20 Months - $50,000"
+                -- },
+                -- description = "When a probationer does not follow the conditions of probation, or commits another crime while on probation."
+			-- },
+		
     	-----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
