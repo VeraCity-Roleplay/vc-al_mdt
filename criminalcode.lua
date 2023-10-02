@@ -979,6 +979,151 @@ Config.MDT.CriminalCode = {
                 },
                 description = "When a probationer does not follow the conditions of probation, or commits another crime while on probation."
 			},
+			{
+                offense = "F3.37 - Perjury",
+                class = "Felony",
+                punishment = {
+                    fine = 100000,
+                    time = 200,
+                    label = "200 Months - $100,000"
+                },
+                description = "The offense of willfully telling an untruth in a court after having an oath or affirmation."
+			},
+ 			{
+                offense = "F3.38 - Destorying or Concealing Evidence",
+                class = "Felony",
+                punishment = {
+                    fine = 20000,
+                    time = 200,
+                    label = "200 Months - $20,000"
+                },
+                description = "The offense entails knowingly and willfully getting rid of or hiding evidence from being used in any trial, inquiry,or investigation authorized by law with intent to prevent it from being produced."
+			},
+			{
+                offense = "F3.39 - Dissuading a Witness",
+                class = "Felony",
+                punishment = {
+                    fine = 50000,
+                    time = 60,
+                    label = "60 Months - $50,000"
+                },
+                description = "Dissuading a witness entails knowingly and maliciously preventing or dissuading a victim or witness to a crime from any of the follwing acts: Attending or testifying at a proceeding authorized by law."
+			},
+			{
+                offense = "F3.40 - Accessory after the fact",
+                class = "Felony",
+                punishment = {
+                    fine = 500000,
+                    time = 240,
+                    label = "240 Months - $500,000"
+                },
+                description = "To be an accessory after the fact: to harbor, conceal, or aid another person, Who committed a crime, with the intent to the help the person who committed the crime to avoid the arrest, conviction, or punishment."
+			},
+			{
+                offense = "F3.41 - Failure to Report",
+                class = "Felony",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Failure to report theft or personal property, including; Firearms, Weapons, Identification Documents, Vehicles, And or property belonging to any Business or place of Employment."
+			},
+			{
+                offense = "F3.42 - Hunting with unauthorized weapons",
+                class = "Felony",
+                punishment = {
+                    fine = 50000,
+                    time = 360,
+                    label = "360 Months - $2,500"
+                },
+                description = "Shooting any animal, for any means othr then self defense, with any weapon other than a Hunting Rifle."
+			},
+			{
+                offense = "F3.43 - Unlawful posession of game Exceeding the limit",
+                class = "Felony",
+                punishment = {
+                    fine = 5000,
+                    time = 240,
+                    label = "240 Months - $5,000"
+                },
+                description = "Possession of over double the specified limit of carcases(50)/Pelts(50)/Antlers(25) is a felony."
+			},
+			{
+                offense = "F3.44 - Excessive poession of illegal game",
+                class = "Felony",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Possession of ten(10) or more mountian lion pelts/Shark is a felony."
+			},
+			{
+                offense = "F3.45 - Obstruction of justice",
+                class = "Felony",
+                punishment = {
+                    fine = 500000,
+                    time = 360,
+                    label = "360 Months - $500,000"
+                },
+                description = "It is a crime to behave towards police in such a manner that they may not be able to carry out their lawful duty as an officer of the law. This includes but is limited to. Refusing to vacate the area an officer is conducting lawful work after they gave an order to do so, Interrupting general police work, lying to officers in an investigation, and threatening an officer."
+			},
+			{
+                offense = "F3.46 - Poession of unregistered Hunting Rifle",
+                class = "Felony",
+                punishment = {
+                    fine = 500000,
+                    time = 240,
+                    label = "240 Months - $500,000"
+                },
+                description = "Having in possession a Hunting Rifle designed for hunting and it not being registered."
+			},
+			{
+                offense = "F3.47 - Unlawful posession of a Hunting Rifle",
+                class = "Felony",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Having in possesssion a Hunting Rifle that is not registered to the possession holder."
+			}
+        }
+    },
+	{
+		label = "CLASS A MISDEMEANOR OFFENSES",
+		list = {
+            {
+                offense = "MA.1 - Assault",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Intentionally, knowingly, or recklessly causing harm or bodily injury to another; or causing contact with another person and should reasonably know that the other will regard such contact as offensive or provocative."
+            },
+			{
+                offense = "MA.2 - Sexual Harassment",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Sexual or obscene embarrassment, harassment, annoyance, or abuse of a person(s), made via comment, suggestion, request, or other means verbal or written, when the person(s) have clearly communicated the effects of such."
+            },
+			--Add more here (replace this)
+			
+		
+		
+		
+		
+		
+		
+		}
+	}	
 
 
 
