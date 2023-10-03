@@ -1205,14 +1205,67 @@ Config.MDT.CriminalCode = {
                     label = "100 Months - $50,000"
                 },
                 description = "Intentionally tampering, operating, or entering a government or law enforcement vehicle, including but not limited to operating, activating, or deactivating any operational vehicle component."
-            },
-		}
-	}	
-
-
-
-
-
+			},
+			{
+                offense = "MA.11 - Petty Larceny",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 80,
+                    label = "80 Months - $50,000"
+                },
+                description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $999 USD."
+			},
+			{
+                offense = "MA.12 - Possession of Burglary Tools",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 160,
+                    label = "160 Months - $100,000"
+                },
+                description = "burglary tools are broadly defined as any tool, instrument, or other object "adapted, designed, or commonly used" to force entry into a building or commit theft i.e Lockpick Set."
+			},
+			{
+                offense = "MA.13 - Shoplifting",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Shoplifting is defined as entering a commercial establishment with intent to commit larceny while the establishment is open during regular business hours, and where the value of the property taken (or intended to be taken) does not exceed ninety nine dollars."
+			},
+			{
+                offense = "MA.14 - Criminal Mischief",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Damage or destruction resuliting in loss. If the person willfully and wantonly damages, injures or destorys any real property whatsoever, either or a public or private nature."
+			},
+			{
+                offense = "MA.15 - Hit and Run",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Failure to stop and remain at the scene of an accident involving damages, or injury."
+			},
+			{
+                offense = "MA.16 - Contempt of court",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Knowingly disobeying any court order that exists without good reason."
+			},
 
 		
     	-----------------------------------------------------------------------------------------
