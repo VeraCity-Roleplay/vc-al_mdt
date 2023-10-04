@@ -1126,33 +1126,147 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Sexual or obscene embarrassment, harassment, annoyance, or abuse of a person(s), made via comment, suggestion, request, or other means verbal or written, when the person(s) have clearly communicated the effects of such."
             },
-			--Add more here (replace this)
-			
-		
-		
-		
-		
-		
-		
-		}
-	}	
+			{
+                offense = "MA.3 - Unlawful Restraint",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Restricting the movement, as to substantially interfere with the liberty, of an unwilling person."
+            },
+			{
+                offense = "MA.4 - Abuse of official capacity",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Misuse of government property, personnel, or services by a member of law enforcement, or any other member of public or government office with intent to defraud or harm another for personal or professional gain."
+            },
+			{
+                offense = "MA.5 - Offical Oppression",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Subjection of a person to mistreatment, arrest, search, seizure, or Universal Declaration of Human Rights violation by a public official or law enforcement."
+            },
+			{
+                offense = "MA.6 - False Alarm or Report",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Communicating in any manner a report of an emergency or crime that the person knows to be false."
+            },
+			{
+                offense = "MA.7 - Interfere with Emergency Telephone call",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "The intentional obstruction or prevention of another from lawfully utilizing the 911 Emergency system."
+            },
+			{
+                offense = "MA.8 - Misuse of 911",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "It is unlawful for an individual who is not seeking public safety assistance, is not providing 911 service, or is not responding to a 911 call to access or attempt to access or attempt to access the 911 system for a purpose other than an emergency communication."
+            },
+			{
+                offense = "MA.9 - Criminal Threats",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 160000,
+                    time = 160,
+                    label = "160 Months - $160,000"
+                },
+                description = "The defendant inflicted great bodily injury to another person. The defendant intended to cause extreme pain and suffering on the other person to pursaude the oher person, for revenge or for a sadistic purpose. A sadistic purpose means that the defendant intended to inflict pain on another person in order experience pleasure for himself or herself."
+            },
+			{
+                offense = "MA.10 - Tampering wtih a Government vehicle",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 100,
+                    label = "100 Months - $50,000"
+                },
+                description = "Intentionally tampering, operating, or entering a government or law enforcement vehicle, including but not limited to operating, activating, or deactivating any operational vehicle component."
+			},
+			{
+                offense = "MA.11 - Petty Larceny",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 80,
+                    label = "80 Months - $50,000"
+                },
+                description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $999 USD."
+			},
+			{
+                offense = "MA.12 - Possession of Burglary Tools",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 160,
+                    label = "160 Months - $100,000"
+                },
+                description = "burglary tools are broadly defined as any tool, instrument, or other object "adapted, designed, or commonly used" to force entry into a building or commit theft i.e Lockpick Set."
+			},
+			{
+                offense = "MA.13 - Shoplifting",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Shoplifting is defined as entering a commercial establishment with intent to commit larceny while the establishment is open during regular business hours, and where the value of the property taken (or intended to be taken) does not exceed ninety nine dollars."
+			},
+			{
+                offense = "MA.14 - Criminal Mischief",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Damage or destruction resuliting in loss. If the person willfully and wantonly damages, injures or destorys any real property whatsoever, either or a public or private nature."
+			},
+			{
+                offense = "MA.15 - Hit and Run",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Failure to stop and remain at the scene of an accident involving damages, or injury."
+			},
+			{
+                offense = "MA.16 - Contempt of court",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Knowingly disobeying any court order that exists without good reason."
+			},
 
-
-
-
-
-		--// TEMPLATE FOR CHARGE
-
-			-- {
-                -- offense = "F3.36 - Violation of Probation",
-                -- class = "Felony",
-                -- punishment = {
-                    -- fine = 50000,
-                    -- time = 20,
-                    -- label = "20 Months - $50,000"
-                -- },
-                -- description = "When a probationer does not follow the conditions of probation, or commits another crime while on probation."
-			-- },
 		
     	-----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
