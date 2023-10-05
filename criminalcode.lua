@@ -1385,7 +1385,24 @@ Config.MDT.CriminalCode = {
                     label = "20 Months - $50,000"
                 },
                 description = "Failed to appear at court after a written promise to appear or subpoena."
-			},
+			}
+        }
+    },
+	
+	{
+		label = "CLASS B MISDEMEANOR OFFENSES",
+		list = {
+            {
+                offense = "MB.1 - Animal Cruelty & Animal Neglect",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Any person who purposely harms or kills a animal for no legal reason. Any person who purposely neglects a animal for any reason and causes harm to that animal."
+            },
+    	
     	-----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
