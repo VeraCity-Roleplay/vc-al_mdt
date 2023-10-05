@@ -1257,17 +1257,125 @@ Config.MDT.CriminalCode = {
                 description = "Failure to stop and remain at the scene of an accident involving damages, or injury."
 			},
 			{
-                offense = "MA.16 - Contempt of court",
+                offense = "MA.17 - Impersonating a Military service member, veteran, or public offical",
                 class = "Misdemeanor",
                 punishment = {
                     fine = 8000,
                     time = 20,
                     label = "20 Months - $8,000"
                 },
-                description = "Knowingly disobeying any court order that exists without good reason."
+                description = "Whoever falsely impersonates an active or reserve component military service member, veteran, or public official."
 			},
-
-		
+			{
+                offense = "MA.18 - Reckless Handling of a Firearm",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Current:Recklessly handles a gun or other dangerous weapon so as to endanger the safety of another or intentionally points a gun of any kind, capable of injuring or killing a human being and whether loaded or unloaded at or toward another."
+			},
+			{
+                offense = "MA.19 - Brandishing of a Deadly Weapon.",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "If any person shall point any gun or pistol at any person, either in fun or otherwise, whether such gun or pistol be loaded or not loaded shall be guilty of Brandishing of a Deadly Weapon."
+			},
+			{
+                offense = "MA.20 - Open Carry of a Loaded Firearm Where Prohibited.",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Within the city of veracity, Town of paleto Bay, Witnin 500ft of ant law enforcement, or Government property, or within the property of a "51% standard business ", it is a crime to carry a loaded firearm on your person in a manner that is visble in any part without obstruction, or in a car or other motor vehicle, except in the trunk or a locked container (not the golve box) Within the vehicle. A firearm is considered loaded when there is an enexpended cartridge or shell attached in any manner to the firearm. This includes (but it not limited to) in the firing chamber or a magiazine or clip or cliped attached to the firearm."  
+			},
+			{
+                offense = "MA.21 - Unauthorized Poession of a Lockpicking Device",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "It is unlawful to possess an advanced lockpick for illegal activities, such as stealing a car, or breaking and entering for criminal advancement."
+			},
+			{
+                offense = "MA.22 - Invaild/operating as armed Security without a license",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Invalid/Operating a armed security position for a private company or business or individuals without a license."
+			},
+			{
+                offense = "MA.23 - Criminal concealment of identity",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "Concealing one identity by means of mask or face covering during the commision of a crime, police interaction and all Hospitals, Banks, and all governemnt buildings. *Exception: Medical reasoning to having the mask or face covering i.e Severe facial disfigurement requiring a mask or facial covering be worn at all times with no chance of repair."
+			},
+			{
+                offense = "MA.24 - Street Racing",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "The operating of two or more vehicles from a point side by side at accelerating speeds in a competitive attempt to outdistance each other or the operation of one are more Vehicles, over a common selected coure, from the same point to the same point, wherein timing is made of the Participating Vehicles involving competitive accelerations or speeds."
+			},
+			{
+                offense = "MA.25 - Indecent Exposure",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 8000,
+                    time = 20,
+                    label = "20 Months - $8,000"
+                },
+                description = "The defendant willfully exposed his or her genitals in the presence of another person or persons. This can also be classified as a public crime."
+			},
+			{
+                offense = "MA.26 - Poession of stolen property",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 20000,
+                    time = 100,
+                    label = "100 Months - $20,000"
+                },
+                description = "it is a crime when a person knowingly purchases, obtains, receives, or possesses any property knowing  (or should know) it is stolen with the intent of depriving the owner of the property."
+			},
+			{
+                offense = "MA.27 - poession of Stolen Drug Paraphernalia",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 200,
+                    time = 15,
+                    label = "15 Months - $200"
+                },
+                description = "Drug paraphernalia is defined as miscellaneous items used in connection with illegal drug activity or use."
+			},
+			{
+                offense = "MA.28 - Failure to Appear at court",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 20,
+                    label = "20 Months - $50,000"
+                },
+                description = "Failed to appear at court after a written promise to appear or subpoena."
+			},
     	-----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
