@@ -1224,7 +1224,7 @@ Config.MDT.CriminalCode = {
                     time = 160,
                     label = "160 Months - $100,000"
                 },
-                description = 'Burglary tools are broadly defined as any tool, instrument, or other object "adapted, designed, or commonly used" to force entry into a building or commit theft i.e Lockpick Set.'
+                description = "burglary tools are broadly defined as any tool, instrument, or other object "adapted, designed, or commonly used" to force entry into a building or commit theft i.e Lockpick Set."
 			},
 			{
                 offense = "MA.13 - Shoplifting",
