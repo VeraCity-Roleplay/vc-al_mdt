@@ -1232,7 +1232,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Shoplifting is defined as entering a commercial establishment with intent to commit larceny while the establishment is open during regular business hours, and where the value of the property taken (or intended to be taken) does not exceed ninety nine dollars."
 			},
@@ -1242,7 +1242,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Damage or destruction resuliting in loss. If the person willfully and wantonly damages, injures or destorys any real property whatsoever, either or a public or private nature."
 			},
@@ -1252,9 +1252,19 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Failure to stop and remain at the scene of an accident involving damages, or injury."
+			},
+			{
+                offense = "MA.16 - Contempt of Court",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 30,
+                    label = "30 Months - $50,000"
+                },
+                description = "Knowingly disobeying any court order that exists without good reason."
 			},
 			{
                 offense = "MA.17 - Impersonating a Military service member, veteran, or public offical",
@@ -1262,7 +1272,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Whoever falsely impersonates an active or reserve component military service member, veteran, or public official."
 			},
@@ -1272,7 +1282,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Current:Recklessly handles a gun or other dangerous weapon so as to endanger the safety of another or intentionally points a gun of any kind, capable of injuring or killing a human being and whether loaded or unloaded at or toward another."
 			},
@@ -1282,7 +1292,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "If any person shall point any gun or pistol at any person, either in fun or otherwise, whether such gun or pistol be loaded or not loaded shall be guilty of Brandishing of a Deadly Weapon."
 			},
@@ -1292,9 +1302,9 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
-                description = "Within the city of veracity, Town of paleto Bay, Witnin 500ft of ant law enforcement, or Government property, or within the property of a "51% standard business ", it is a crime to carry a loaded firearm on your person in a manner that is visble in any part without obstruction, or in a car or other motor vehicle, except in the trunk or a locked container (not the golve box) Within the vehicle. A firearm is considered loaded when there is an enexpended cartridge or shell attached in any manner to the firearm. This includes (but it not limited to) in the firing chamber or a magiazine or clip or cliped attached to the firearm."  
+                description = 'Within the city of veracity, Town of paleto Bay, Witnin 500ft of ant law enforcement, or Government property, or within the property of a "51% standard business ", it is a crime to carry a loaded firearm on your person in a manner that is visble in any part without obstruction, or in a car or other motor vehicle, except in the trunk or a locked container (not the golve box) Within the vehicle. A firearm is considered loaded when there is an enexpended cartridge or shell attached in any manner to the firearm. This includes (but it not limited to) in the firing chamber or a magiazine or clip or cliped attached to the firearm.'
 			},
 			{
                 offense = "MA.21 - Unauthorized Poession of a Lockpicking Device",
@@ -1302,7 +1312,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "It is unlawful to possess an advanced lockpick for illegal activities, such as stealing a car, or breaking and entering for criminal advancement."
 			},
@@ -1312,7 +1322,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Invalid/Operating a armed security position for a private company or business or individuals without a license."
 			},
@@ -1322,7 +1332,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "Concealing one identity by means of mask or face covering during the commision of a crime, police interaction and all Hospitals, Banks, and all governemnt buildings. *Exception: Medical reasoning to having the mask or face covering i.e Severe facial disfigurement requiring a mask or facial covering be worn at all times with no chance of repair."
 			},
@@ -1332,7 +1342,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "The operating of two or more vehicles from a point side by side at accelerating speeds in a competitive attempt to outdistance each other or the operation of one are more Vehicles, over a common selected coure, from the same point to the same point, wherein timing is made of the Participating Vehicles involving competitive accelerations or speeds."
 			},
@@ -1342,7 +1352,7 @@ Config.MDT.CriminalCode = {
                 punishment = {
                     fine = 8000,
                     time = 20,
-                    label = "20 Months - $8,000"
+                    label = "20 Months - $8,000" -- NEEDS UPDATED
                 },
                 description = "The defendant willfully exposed his or her genitals in the presence of another person or persons. This can also be classified as a public crime."
 			},
