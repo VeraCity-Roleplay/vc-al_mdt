@@ -1402,8 +1402,78 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who purposely harms or kills a animal for no legal reason. Any person who purposely neglects a animal for any reason and causes harm to that animal."
             },
-    	
-    	-------------------------------------------------------------------------------------------
+			 {
+                offense = "MB.2 - Simple Assault",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another."
+            },
+			 {
+                offense = "MB.3 - Bribery",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "When someone gives or offers something of value, he or she did so with the intent to unlawfully influence the executive officer's action or decisions."
+            },
+			 {
+                offense = "MB.4 - Child Endangerment",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Any person, who willfully causes or permits any child to suffer unjustifiable physical pain, injury, or mental suffering, or willfully causes or permits that child to be placed in a situation where the child is likely to suffer great bodily injury or death."
+            },
+			 {
+                offense = "MB.5 - Contributing to the Delinquency of a minor",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Contributing to the delinquency of a minor means a parent, or a minor's legal guardian, committing an act, or failing to perform a duty, that allows or encourages illegal behavior by his or her minor child."
+            },
+			 {
+                offense = "MB.6 - Give False Identification to police",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 120,
+                    label = "120 Months - $150,000"
+                },
+                description = "Any person who falsely represents or identifies himself or herself as another person, or as a fictitious person, to any peace officer, upon a lawful detention or arrest of the person, either to evade the process of the court, or to evade the proper identification of the person by the investigating officer is guilty of giving false identification to a police."
+            },
+			
+			 {
+                offense = "MB.7 - Loitering for Drug Activity",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 140,
+                    label = "140 Months - $150,000"
+                },
+                description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
+            },
+			 {
+                offense = "MB.8 - Loitering for Prostitution",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 60,
+                    label = "60 Months - $5,000"
+                },
+                description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
+            },
+    	-----------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
   
