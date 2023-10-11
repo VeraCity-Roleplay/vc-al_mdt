@@ -1402,9 +1402,246 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who purposely harms or kills a animal for no legal reason. Any person who purposely neglects a animal for any reason and causes harm to that animal."
             },
-    	
-    	-------------------------------------------------------------------------------------------
-	---------------------------------------------------------------------------------------
-	---------------------------------------------------------------------------------------
+			 {
+                offense = "MB.2 - Simple Assault",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another."
+            },
+			 {
+                offense = "MB.3 - Bribery",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "When someone gives or offers something of value, he or she did so with the intent to unlawfully influence the executive officer's action or decisions."
+            },
+			 {
+                offense = "MB.4 - Child Endangerment",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Any person, who willfully causes or permits any child to suffer unjustifiable physical pain, injury, or mental suffering, or willfully causes or permits that child to be placed in a situation where the child is likely to suffer great bodily injury or death."
+            },
+			 {
+                offense = "MB.5 - Contributing to the Delinquency of a minor",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Contributing to the delinquency of a minor means a parent, or a minor's legal guardian, committing an act, or failing to perform a duty, that allows or encourages illegal behavior by his or her minor child."
+            },
+			 {
+                offense = "MB.6 - Give False Identification to police",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 120,
+                    label = "120 Months - $150,000"
+                },
+                description = "Any person who falsely represents or identifies himself or herself as another person, or as a fictitious person, to any peace officer, upon a lawful detention or arrest of the person, either to evade the process of the court, or to evade the proper identification of the person by the investigating officer is guilty of giving false identification to a police."
+            },
+			
+			 {
+                offense = "MB.7 - Loitering for Drug Activity",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 140,
+                    label = "140 Months - $150,000"
+                },
+                description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
+            },
+			 {
+                offense = "MB.8 - Loitering for Prostitution",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 60,
+                    label = "60 Months - $5,000"
+                },
+                description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
+            },
+			 {
+                offense = "MB.9 - Price Gouging",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 200000,
+                    time = 140,
+                    label = "140 Months - $200,000"
+                },
+                description = "It is illegal to greatly increase prices for essential goods and services during a state of emergency or local emergency, including, but not limited to, an earthquake, flood, fire, riot, storm, drought, plant or animal infestation or disease, or other natural or man-made disaster...when a declared state of emergency or local emergency results in abnormal disruptions of the market, the public interest requires that excessive and unjustified increases in the prices of essential consumer goods and services be prohibited."
+		    },
+			 {
+                offense = "MB.10 - Theft of lost property",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 15000,
+                    time = 300,
+                    label = "300 Months - $150,000"
+                },
+                description = "A person who finds lost property under circumstances which give him knowledge of, or means of inquiry, as to the true owner, and who appropriates such property to his own use, or to the use of another person not entitled to that property, without first making reasonable and just efforts to find the owner and to restore the property to him, is guilty of theft of lost property or appropriation of lost property."
+			},
+			 {
+                offense = "MB.11 - Theft",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 80,
+                    label = "80 Months - $5,000"
+                },
+                description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $999 USD."
+           	},
+			 {
+                offense = "MB.12 - Trespassing 2nd Offence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 120,
+                    label = "120 Months - $5,000"
+                },
+                description = "Enter the owner's land or property without permission."
+			},
+			 {
+                offense = "MB.13 - Failure",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 100,
+                    label = "100 Months - $5,000"
+                },
+                description = " Fail to comply with terms of a summons or notice."
+            },
+			 {
+                offense = "MB.14 - Resisting an police or Executive Officer",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 10000,
+                    time = 60,
+                    label = "60 Months - $10,000"
+                },
+                description = "Every person who attempts, by means of any threat or violence, to deter or prevent an police or executive officer from performing any duty imposed upon the officer by law, or who knowingly resists, by the use of force or violence, the officer, in the performance of his or her duty, is guilty of resisting or deterring an executive officer."
+            },
+			 {
+                offense = "MB.15 - Unlawful Discharge of a Firearm",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50000,
+                    time = 60,
+                    label = "60 Months - $50,000"
+                },
+                description = "Offense committed when a person discharges a firearm in a reckless manner that endangers the bodily safety of another individual."
+			}
+        }
+    },
+	
+	{
+		label = "CLASS C MISDEMEANOR OFFENSES",
+		list = {
+            {
+				offense = "MC.1 - Verbal Assault",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Threatening a person(s) with injury or other offensive contact."
+			},
+			 {
+                offense = "MC.2 - Criminal Mischief",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Damage or destruction resulting in loss valued less than $100 or causes consequential inconvenience to others."
+			},
+			 {
+                offense = "MC.3 - False statement to Law Enforcement",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Providing or communicating statements to Law Enforcement members that the person knows to be false or misleading."
+            },
+			 {
+                offense = "MC.4 - Disturbing the peace",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 100,
+                    label = "100 Months - $100,000"
+                },
+                description = "Willfully and maliciously disturbing another person by loud and unreasonable noise or using offensive words that are likely to provoke another person to violence."
+            },
+			 {
+                offense = "MC.5 - Driving on a Suspended licence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100000,
+                    time = 120,
+                    label = "120 Months - $100,000"
+                },
+                description = "Driving a motor vehicle while his or her driving privilege was suspended or revoked."
+			},
+			 {
+                offense = "MC.6 - Petty Theft",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 120,
+                    label = "120 Months - $150,000"
+                },
+                description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $100 USD."
+			},
+			 {
+                offense = "MC.7 - Failure To Stop and identifying",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 140,
+                    label = "140 Months - $150,000"
+                },
+                description = "Under state law officers can stop and ask you for your identity and to see your face if they have reasonable suspicion. Refusal to identify, give name, address, or other identifying information to a law enforcement officer. If you fail to comply you are guilty of this offence."
+			},
+			 {
+                offense = "MC.8 - Vandalism",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 60,
+                    label = "60 Months - $5,000"
+                },
+                description = "Any person who maliciously defaces, damages, or destroys any real or personal property not his or her own is guilty of vandalism."
+			},
+			 {
+                offense = "MC.9 - Exhibition Driving",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 200000,
+                    time = 140,
+                    label = "140 Months - $200,000"
+                },
+                description = "Any person who drives any vehicle upon a highway, alley, public park, recreational area, or upon public property in such a manner that creates or causes unnecessary engine noise, tire squeal, skid, or slide upon acceleration or stopping; that simulates a temporary race; or that causes the vehicle to unnecessarily turn abruptly or sway."
+			},
+		}
+	}
+}	
+	    -----------------------------------------------------------------------------------------
   
 
