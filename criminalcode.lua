@@ -1402,7 +1402,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who purposely harms or kills a animal for no legal reason. Any person who purposely neglects a animal for any reason and causes harm to that animal."
             },
-			 {
+			{
                 offense = "MB.2 - Simple Assault",
                 class = "Misdemeanor",
                 punishment = {
@@ -1412,7 +1412,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "An assault is an unlawful attempt, coupled with a present ability, to commit a violent injury on the person of another."
             },
-			 {
+			{
                 offense = "MB.3 - Bribery",
                 class = "Misdemeanor",
                 punishment = {
@@ -1422,7 +1422,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "When someone gives or offers something of value, he or she did so with the intent to unlawfully influence the executive officer's action or decisions."
             },
-			 {
+			{
                 offense = "MB.4 - Child Endangerment",
                 class = "Misdemeanor",
                 punishment = {
@@ -1432,7 +1432,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person, who willfully causes or permits any child to suffer unjustifiable physical pain, injury, or mental suffering, or willfully causes or permits that child to be placed in a situation where the child is likely to suffer great bodily injury or death."
             },
-			 {
+			{
                 offense = "MB.5 - Contributing to the Delinquency of a minor",
                 class = "Misdemeanor",
                 punishment = {
@@ -1442,7 +1442,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Contributing to the delinquency of a minor means a parent, or a minor's legal guardian, committing an act, or failing to perform a duty, that allows or encourages illegal behavior by his or her minor child."
             },
-			 {
+			{
                 offense = "MB.6 - Give False Identification to police",
                 class = "Misdemeanor",
                 punishment = {
@@ -1452,8 +1452,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who falsely represents or identifies himself or herself as another person, or as a fictitious person, to any peace officer, upon a lawful detention or arrest of the person, either to evade the process of the court, or to evade the proper identification of the person by the investigating officer is guilty of giving false identification to a police."
             },
-			
-			 {
+			{
                 offense = "MB.7 - Loitering for Drug Activity",
                 class = "Misdemeanor",
                 punishment = {
@@ -1463,7 +1462,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
             },
-			 {
+			{
                 offense = "MB.8 - Loitering for Prostitution",
                 class = "Misdemeanor",
                 punishment = {
@@ -1473,7 +1472,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "It is unlawful for any person to loiter in any public place in a manner and under circumstances manifesting the purpose, and with the intent to commit, a drug offense, i.e. buying, selling, transporting drugs, etc."
             },
-			 {
+			{
                 offense = "MB.9 - Price Gouging",
                 class = "Misdemeanor",
                 punishment = {
@@ -1483,7 +1482,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "It is illegal to greatly increase prices for essential goods and services during a state of emergency or local emergency, including, but not limited to, an earthquake, flood, fire, riot, storm, drought, plant or animal infestation or disease, or other natural or man-made disaster...when a declared state of emergency or local emergency results in abnormal disruptions of the market, the public interest requires that excessive and unjustified increases in the prices of essential consumer goods and services be prohibited."
 		    },
-			 {
+			{
                 offense = "MB.10 - Theft of lost property",
                 class = "Misdemeanor",
                 punishment = {
@@ -1493,7 +1492,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "A person who finds lost property under circumstances which give him knowledge of, or means of inquiry, as to the true owner, and who appropriates such property to his own use, or to the use of another person not entitled to that property, without first making reasonable and just efforts to find the owner and to restore the property to him, is guilty of theft of lost property or appropriation of lost property."
 			},
-			 {
+			{
                 offense = "MB.11 - Theft",
                 class = "Misdemeanor",
                 punishment = {
@@ -1503,7 +1502,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $999 USD."
            	},
-			 {
+			{
                 offense = "MB.12 - Trespassing 2nd Offence",
                 class = "Misdemeanor",
                 punishment = {
@@ -1513,7 +1512,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Enter the owner's land or property without permission."
 			},
-			 {
+			{
                 offense = "MB.13 - Failure",
                 class = "Misdemeanor",
                 punishment = {
@@ -1523,7 +1522,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = " Fail to comply with terms of a summons or notice."
             },
-			 {
+			{
                 offense = "MB.14 - Resisting an police or Executive Officer",
                 class = "Misdemeanor",
                 punishment = {
@@ -1533,7 +1532,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Every person who attempts, by means of any threat or violence, to deter or prevent an police or executive officer from performing any duty imposed upon the officer by law, or who knowingly resists, by the use of force or violence, the officer, in the performance of his or her duty, is guilty of resisting or deterring an executive officer."
             },
-			 {
+			{
                 offense = "MB.15 - Unlawful Discharge of a Firearm",
                 class = "Misdemeanor",
                 punishment = {
@@ -1559,7 +1558,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Threatening a person(s) with injury or other offensive contact."
 			},
-			 {
+			{
                 offense = "MC.2 - Criminal Mischief",
                 class = "Misdemeanor",
                 punishment = {
@@ -1569,7 +1568,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Damage or destruction resulting in loss valued less than $100 or causes consequential inconvenience to others."
 			},
-			 {
+			{
                 offense = "MC.3 - False statement to Law Enforcement",
                 class = "Misdemeanor",
                 punishment = {
@@ -1579,7 +1578,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Providing or communicating statements to Law Enforcement members that the person knows to be false or misleading."
             },
-			 {
+			{
                 offense = "MC.4 - Disturbing the peace",
                 class = "Misdemeanor",
                 punishment = {
@@ -1589,7 +1588,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Willfully and maliciously disturbing another person by loud and unreasonable noise or using offensive words that are likely to provoke another person to violence."
             },
-			 {
+			{
                 offense = "MC.5 - Driving on a Suspended licence",
                 class = "Misdemeanor",
                 punishment = {
@@ -1599,7 +1598,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Driving a motor vehicle while his or her driving privilege was suspended or revoked."
 			},
-			 {
+			{
                 offense = "MC.6 - Petty Theft",
                 class = "Misdemeanor",
                 punishment = {
@@ -1609,7 +1608,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Unlawful deprivation of property from its legal owner by theft, valued at $1 USD and not more than $100 USD."
 			},
-			 {
+			{
                 offense = "MC.7 - Failure To Stop and identifying",
                 class = "Misdemeanor",
                 punishment = {
@@ -1619,7 +1618,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Under state law officers can stop and ask you for your identity and to see your face if they have reasonable suspicion. Refusal to identify, give name, address, or other identifying information to a law enforcement officer. If you fail to comply you are guilty of this offence."
 			},
-			 {
+			{
                 offense = "MC.8 - Vandalism",
                 class = "Misdemeanor",
                 punishment = {
@@ -1629,7 +1628,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who maliciously defaces, damages, or destroys any real or personal property not his or her own is guilty of vandalism."
 			},
-			 {
+			{
                 offense = "MC.9 - Exhibition Driving",
                 class = "Misdemeanor",
                 punishment = {
@@ -1639,7 +1638,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any person who drives any vehicle upon a highway, alley, public park, recreational area, or upon public property in such a manner that creates or causes unnecessary engine noise, tire squeal, skid, or slide upon acceleration or stopping; that simulates a temporary race; or that causes the vehicle to unnecessarily turn abruptly or sway."
 			},
-			 {
+			{
                 offense = "MC.10 - No valid motorcycle licence",
                 class = "Misdemeanor",
                 punishment = {
@@ -1649,7 +1648,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Driving a motorcycle without a valid Operator's License or Endorsement."
 			},
-			 {
+			{
                 offense = "MC.11 - No Valid CDL licence",
                 class = "Misdemeanor",
                 punishment = {
@@ -1659,7 +1658,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Driving a Commercial Vehicle without a valid Commercial Drivers License."
 			},
-			 {
+			{
                 offense = "MC.12 - Stalking",
                 class = "Misdemeanor",
                 punishment = {
@@ -1669,7 +1668,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Willfully and maliciously harassed another person repeatedly, and the defendant made a credible threat with the intent to place the otter person in reasonable fear for his or her safety or the safety of his or her family."
 			},
-			 {
+			{
                 offense = "MC.13 - Intoxicated and disruptive in public",
                 class = "Misdemeanor",
                 punishment = {
@@ -1679,7 +1678,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Individual must be intoxicated in public and be disruptive in one of these ways, Interfering with or blocking traffic on a highway or road, Blocking or interfering with a passage on a sidewalk or an entrance to a building, Grabbing, shoving, or pushing other people, Fighting or Challenging others to fight, Cursing or shouting at others or rudely insulting them, Begging for money or other property"
 			},
-			 {
+			{
                 offense = "MC.14 - No valid Hunting/Fishing License",
                 class = "Misdemeanor",
                 punishment = {
@@ -1689,7 +1688,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Shooting or harvesting an animal without a valid hunting license; Fishing without a valid fishing license."
 			},
-			 {
+			{
                 offense = "MC.15 - Hunting in protected area",
                 class = "Misdemeanor",
                 punishment = {
@@ -1699,7 +1698,7 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Shooting or harvesting an animal within city limits, town limits, state and national parks, or any other designated off limits area."
 			},
-			 {
+			{
                 offense = "MC.16 - Overfishing",
                 class = "Misdemeanor",
                 punishment = {
@@ -1708,7 +1707,26 @@ Config.MDT.CriminalCode = {
                     label = "100 Months - $5,000"
                 },
                 description = "Exceeding the bag limit set by the state.Limit: San Andreas has a coverall bag limit of 100 fish of any combination of species, per person. Exceeding this limit is classified as overfishing."	
-				
+			}
+        }
+    },
+	
+	-- TRAFFIC VIOLATIONS
+	
+	{
+		label = "SPEEDING VIOLATIONS",
+		list = {
+            {
+				offense = "TO.1 - Speeding 6 MPH to 10 MPH Over",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50,
+                    time = 0,
+                    label = "0 Months - $50"
+                },
+                description = "Exceeding the posted speed limit in excess of over 6 mph."
+			},
+			
 	    	-----------------------------------------------------------------------------------------
 	    ---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
