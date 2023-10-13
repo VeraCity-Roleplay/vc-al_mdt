@@ -1714,7 +1714,7 @@ Config.MDT.CriminalCode = {
 	-- TRAFFIC VIOLATIONS
 	
 	{
-		label = "SPEEDING VIOLATIONS",
+		label = "TRAFFIC VIOLATIONS - SPEEDING",
 		list = {
             {
 				offense = "TO.1 - Speeding 6 MPH to 10 MPH Over",
@@ -1756,6 +1756,12 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Operating any motor vehicle under 15mph of the posted road sign or speed limit or impeding the normal flow of traffic on a highway. Driving a motor vehicle in a way that prevents others from traveling at the posted speed limit or a reasonable pace."
 			},
+	
+	-- GENERAL VIOLATIONS
+	
+	{
+		label = "TRAFFIC VIOLATIONS - GENERAL",
+		list = {		
 			{
 				offense = "TO.5 - Reckless Driving",
                 class = "Misdemeanor",
@@ -2046,6 +2052,12 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Operating a vehicle with window tint that mostly obscures the interior of the vehicle from one or more windows."
 			},
+	
+		-- MOTOR VEHICLE VIOLATIONS ACCIDENT INVOLVED
+			
+	{
+		label = "TRAFFIC VIOLATIONS - MOTOR VEHICLE ACCIDENT INVOLVED",
+		list = {	
 			{
 				offense = "TO.40 - Any and all moving violations when directly or indirectly at fault for, or Contributing to, an accident",
                 class = "Misdemeanor",
@@ -2056,6 +2068,12 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Any traffic violations committed at any time while driving or operating a Commercial Vehicle."
 			},
+		
+	-- COMMERCIAL MOTOR VEHICLE VIOLATIONS
+		
+	{
+		label = "TRAFFIC VIOLATIONS - COMMERCIAL MOTOR VEHICLE",
+		list = {		
 			{
 				offense = "TO.41 - Commercial Moving or Traffic Violations",
                 class = "Misdemeanor",
@@ -2076,6 +2094,22 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Driving a Commercial Vehicle without a valid Operatord License or Endorsement."
 			},
+	
+	-- HUNTING AND FISHING LAWS
+	
+	{
+		label = "HUNTING & FISHING - CLASS A MISDEMEANOR OFFENSES",
+		list = {
+            {
+				offense = "HF.1 - No Hunting/Fishing License",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 2500,
+                    time = 0,
+                    label = "0 Months - $2,500"
+                },
+                description = "Hunting or Fishing without a valid hunting/fishing license"
+			},		
 	    	-----------------------------------------------------------------------------------------
 	    ---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
