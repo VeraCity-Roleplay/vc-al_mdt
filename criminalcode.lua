@@ -1638,6 +1638,76 @@ Config.MDT.CriminalCode = {
                     label = "140 Months - $200,000"
                 },
                 description = "Any person who drives any vehicle upon a highway, alley, public park, recreational area, or upon public property in such a manner that creates or causes unnecessary engine noise, tire squeal, skid, or slide upon acceleration or stopping; that simulates a temporary race; or that causes the vehicle to unnecessarily turn abruptly or sway."
+			},
+			 {
+                offense = "MC.10 - No valid motorcycle licence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150000,
+                    time = 300,
+                    label = "300 Months - $150,000"
+                },
+                description = "Driving a motorcycle without a valid Operator's License or Endorsement."
+			},
+			 {
+                offense = "MC.11 - No Valid CDL licence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 80,
+                    label = "80 Months - $5,000"
+                },
+                description = "Driving a Commercial Vehicle without a valid Commercial Drivers License."
+			},
+			 {
+                offense = "MC.12 - Stalking",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 120,
+                    label = "120 Months - $5,000"
+                },
+                description = "Willfully and maliciously harassed another person repeatedly, and the defendant made a credible threat with the intent to place the otter person in reasonable fear for his or her safety or the safety of his or her family."
+			},
+			 {
+                offense = "MC.13 - Intoxicated and disruptive in public",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 100,
+                    label = "100 Months - $5,000"
+                },
+                description = "Individual must be intoxicated in public and be disruptive in one of these ways, Interfering with or blocking traffic on a highway or road, Blocking or interfering with a passage on a sidewalk or an entrance to a building, Grabbing, shoving, or pushing other people, Fighting or Challenging others to fight, Cursing or shouting at others or rudely insulting them, Begging for money or other property"
+			},
+			 {
+                offense = "MC.14 - No valid Hunting/Fishing License",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 100,
+                    label = "100 Months - $5,000"
+                },
+                description = "Shooting or harvesting an animal without a valid hunting license; Fishing without a valid fishing license."
+			},
+			 {
+                offense = "MC.15 - Hunting in protected area",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 100,
+                    label = "100 Months - $5,000"
+                },
+                description = "Shooting or harvesting an animal within city limits, town limits, state and national parks, or any other designated off limits area."
+			},
+			 {
+                offense = "MC.16 - Overfishing",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 100,
+                    label = "100 Months - $5,000"
+                },
+                description = "Exceeding the bag limit set by the state.Limit: San Andreas has a coverall bag limit of 100 fish of any combination of species, per person. Exceeding this limit is classified as overfishing."	
 				
 	    	-----------------------------------------------------------------------------------------
 	    ---------------------------------------------------------------------------------------
