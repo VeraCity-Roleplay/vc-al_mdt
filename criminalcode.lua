@@ -1726,7 +1726,356 @@ Config.MDT.CriminalCode = {
                 },
                 description = "Exceeding the posted speed limit in excess of over 6 mph."
 			},
-			
+			{
+				offense = "TO.2 - Speeding 11 MPH to 14 MPH Over",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 200,
+                    time = 0,
+                    label = "0 Months - $200"
+                },
+                description = "Exceeding the posted speed limit in excess of over 11 mph."
+			},
+			{
+				offense = "TO.3 - Speeding 15+ MPH over",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 400,
+                    time = 0,
+                    label = "0 Months - $400"
+                },
+                description = "Exceeding the posted speed limit in excess of over 15 mph."
+			},
+			{
+				offense = "TO.4 - Impeding Traffic",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 600,
+                    time = 0,
+                    label = "0 Months - $600"
+                },
+                description = "Operating any motor vehicle under 15mph of the posted road sign or speed limit or impeding the normal flow of traffic on a highway. Driving a motor vehicle in a way that prevents others from traveling at the posted speed limit or a reasonable pace."
+			},
+			{
+				offense = "TO.5 - Reckless Driving",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 800,
+                    time = 0,
+                    label = "0 Months - $800"
+                },
+                description = "Exceeding the posted speed limit. Driver is going 120MPH or OVER"
+			},
+			{
+				offense = "TO.6 - Driving without lights",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = "Driving or operating a vehicle that has NOT been equipped with headlights during times of low light, include but not limited to at dawn, dusk, or night."
+			},
+			{
+				offense = "TO.7 - Speeding 6 MPH to 10 MPH Over",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Disregarding an instructive traffic control device whether as a pedestrian or driver or operator of a vehicle."
+			},
+			{
+				offense = "TO.8 - Failure to obey a highway or roadsign",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Failing to comply with any highway or road sign."
+			},
+			{
+				offense = "TO.9 - Failure to maintain",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Any part of the driven or operated vehicle crosses the out plane of the center lane marker or outer edge of roadway of its prescribed lane."
+			},
+			{
+				offense = "TO.10 - Passing in a NO-Passing Zone",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = 'Passing another vehicle or pedestrian in a zone designated as "No-Passing".'
+			},
+			{
+				offense = "TO.11 - Failure to yield Right-of-way",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = "1. Failing to yield to a vehicle traveling on a paved road when on an unpaved road;2. Failing to yield to the vehicle on the right at an uncontrolled intersection;3. Failure to yield to a pedestrian crossing at an intersection or designated crosswalk."
+			},
+			{
+				offense = "TO.12 - Failure to yield to Emergency Vehicles",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Failure to yield right-of-way to an Emergency Vehicle with its emergency lights on and sounding its siren."
+			},
+			{
+				offense = "TO.13 - Disobedience to a police officer",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 3000,
+                    time = 0,
+                    label = "0 Months - $3000"
+                },
+                description = "Refusing to comply with a lawful order, signal, or direction of a peace officer. Officer must be directing traffic"
+			},
+			{
+				offense = "TO.14 - Parking Violation",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "Parking where unauthorized or not permitted, unless by highway or municipal construction or repair purposes."
+			},
+			{
+				offense = "TO.15 - Disregarding an escort by officers",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = "Refusing to or not complying with a lawful escort being conducted by the Police."
+			},
+			{
+				offense = "TO.16 - Underglow/Colored Lights",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1000,
+                    time = 0,
+                    label = "0 Months - $1000"
+                },
+                description = "Operating a vehicle with blue, or amber Underglow/Colored head Lights."
+			},
+			{
+				offense = "TO.17 - Unsafe Vehicle Load",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 3000,
+                    time = 0,
+                    label = "0 Months - $3000"
+                },
+                description = "Parking where unauthorized or not permitted, unless by highway or municipal construction or repair purposes."
+			},
+			{
+				offense = "TO.18 - Driving without a helmet",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100,
+                    time = 0,
+                    label = "0 Months - $100"
+                },
+                description = "Operating a motorcycle or bicycle without a helmet."
+			},
+			{
+				offense = "TO.19 - Equipment Violation",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "Operating a vehicle that is damaged or unroadworthy."
+			},
+			{
+				offense = "TO.20 - Failure to Signal",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50,
+                    time = 0,
+                    label = "0 Months - $50"
+                },
+                description = "All signals required shall be given either by means of the hand and arm or by a single lamp or approved signal device.1. Signal to Turn: A signal of intention to turn right or left shall be given continuously during not less than the last 100 feet traveled by the vehicle before turning. A person whose vehicle is exiting a roundabout is exempt. 2. Signal to Stop: No person shall stop or suddenly decrease the speed of a vehicle without first giving an appropriate signal in the manner provided herein to the driver of any vehicle immediately to the rear unless there is good and sufficient reason for not being able to do so."
+			},
+			{
+				offense = "TO.21 - Illegal U-turn",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "No vehicle shall be turned to proceed in the opposite direction upon any curve, or upon the approach to or near the crest of a grade, where the vehicle cannot be seen by the driver of any other vehicle approaching from either direction within 1,000 feet. A driver should not turn the vehicle to proceed in the opposite direction unless the movement can be made safely and without interfering with other traffic. When necessary to accommodate vehicle configuration on a roadway with two or more lanes in the same direction, a driver may turn the vehicle into the farthest lane and temporarily use the shoulder to make a U-turn."
+			},
+			{
+				offense = "TO.22 - Driving with Taillight/Headlight out",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100,
+                    time = 0,
+                    label = "0 Months - $100"
+                },
+                description = "Operating a motor vehicle with a broken headlight or tail light."
+			},
+			{
+				offense = "TO.23 - Driving without a Valid registration",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Operating a motor vehicle without a valid registration."
+			},
+			{
+				offense = "TO.24 - Driving without a Fastened seat Blet",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100,
+                    time = 0,
+                    label = "0 Months - $100"
+                },
+                description = "Operating a motorcycle without a fastened seat belt."
+			},
+			{
+				offense = "TO.25 - No License Plates",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1500,
+                    time = 0,
+                    label = "0 Months - $1500"
+                },
+                description = "Operating a motor vehicle without a license plate."
+			},
+			{
+				offense = "TO.26 - Impeeding Traffic",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 750,
+                    time = 0,
+                    label = "0 Months - $750"
+                },
+                description = "Driving a motor vehicle in a way that prevents others from traveling at a the posted speed limit or a reasonable pace.Stopping in the middle of the roadway for no reason or blocking traffic for no reason."
+			},
+			{
+				offense = "TO.27 - Illegal modifications of a Vehicle",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 750,
+                    time = 0,
+                    label = "0 Months - $750"
+                },
+                description = "No vehicle shall possess or be modified to have nitrous oxide or be modified to allow a excessive 2 step engine."
+			},
+			{
+				offense = "TO.28 - Parking Illegally on Road or Shoulder (non-emergency)",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "Parking or stopping on a shoulder or side of the road for any reason other than an emergency."
+			},
+			{
+				offense = "TO.29 - Not Stopping for pedestrian",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = "Failing to stop a vehicle to let pedestrians cross or pass."
+			},
+			{
+				offense = "TO.30 - Obstruction of View",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 3000,
+                    time = 0,
+                    label = "0 Months - $3000"
+                },
+                description = "Wearing a mask or face covering while operating a motor vehicle.*Exceptions: While operating a Motorcycle or All Terrain Vehicle;*Medical reasoning to having the mask or face covering i.e. Severe facial disfigurement requiring a mask orfacial covering be worn at all times with no chance of repair**"
+			},
+			{
+				offense = "TO.31 - Move Over",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 3000,
+                    time = 0,
+                    label = "0 Months - $3000"
+                },
+                description = "The Move Over law requires motorists to approach cautiously when an emergency vehicle is stopped on the shoulder of the roadway with its lights flashing. Motorists are required to change lanes away from the emergency vehicle on a multi-lane highway or slow down on a two lane highway and can do so safely. Motorists must slow down while maintaining a safe speed."
+			},
+			{
+				offense = "TO.32 - Failure to provide drivers licence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1000,
+                    time = 60,
+                    label = "60 Months - $1000"
+                },
+                description = "Driving without a valid Operator's License or Endorsement."
+			},
+			{
+				offense = "TO.33 - Window tint",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 900,
+                    time = 0,
+                    label = "0 Months - $900"
+                },
+                description = "Operating a vehicle with window tint that mostly obscures the interior of the vehicle from one or more windows."
+			},
+			{
+				offense = "TO.40 - Any and all moving violations when directly or indirectly at fault for, or Contributing to, an accident",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "Any traffic violations committed at any time while driving or operating a Commercial Vehicle."
+			},
+			{
+				offense = "TO.41 - Commercial Moving or Traffic Violations",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 2000,
+                    time = 0,
+                    label = "0 Months - $2000"
+                },
+                description = "Any traffic violations committed at any time while driving or operating a Commercial Vehicle."
+			},
+			{
+				offense = "TO.42 - Operating a commercial vehicle without a license",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1000,
+                    time = 0,
+                    label = "0 Months - $1000"
+                },
+                description = "Driving a Commercial Vehicle without a valid Operatord License or Endorsement."
+			},
 	    	-----------------------------------------------------------------------------------------
 	    ---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
