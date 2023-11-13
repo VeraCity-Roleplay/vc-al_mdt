@@ -1545,6 +1545,15 @@ Config.MDT.CriminalCode = {
         }
     },
 	
+
+-- ██████╗██╗      █████╗ ███████╗███████╗     ██████╗    ███╗   ███╗██╗███████╗██████╗ ███████╗███╗   ███╗███████╗ █████╗ ███╗   ██╗ ██████╗ ██████╗      ██████╗ ███████╗███████╗███████╗███╗   ██╗███████╗███████╗███████╗
+--██╔════╝██║     ██╔══██╗██╔════╝██╔════╝    ██╔════╝    ████╗ ████║██║██╔════╝██╔══██╗██╔════╝████╗ ████║██╔════╝██╔══██╗████╗  ██║██╔═══██╗██╔══██╗    ██╔═══██╗██╔════╝██╔════╝██╔════╝████╗  ██║██╔════╝██╔════╝██╔════╝
+--██║     ██║     ███████║███████╗███████╗    ██║         ██╔████╔██║██║███████╗██║  ██║█████╗  ██╔████╔██║█████╗  ███████║██╔██╗ ██║██║   ██║██████╔╝    ██║   ██║█████╗  █████╗  █████╗  ██╔██╗ ██║███████╗█████╗  ███████╗
+--██║     ██║     ██╔══██║╚════██║╚════██║    ██║         ██║╚██╔╝██║██║╚════██║██║  ██║██╔══╝  ██║╚██╔╝██║██╔══╝  ██╔══██║██║╚██╗██║██║   ██║██╔══██╗    ██║   ██║██╔══╝  ██╔══╝  ██╔══╝  ██║╚██╗██║╚════██║██╔══╝  ╚════██║
+--╚██████╗███████╗██║  ██║███████║███████║    ╚██████╗    ██║ ╚═╝ ██║██║███████║██████╔╝███████╗██║ ╚═╝ ██║███████╗██║  ██║██║ ╚████║╚██████╔╝██║  ██║    ╚██████╔╝██║     ██║     ███████╗██║ ╚████║███████║███████╗███████║
+-- ╚═════╝╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚═════╝    ╚═╝     ╚═╝╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝     ╚═════╝ ╚═╝     ╚═╝     ╚══════╝╚═╝  ╚═══╝╚══════╝╚══════╝╚══════╝
+--  CLASS C MISDEMEANOR OFFENSES                                                                                                                                                                                                                         
+	
 	{
 		label = "CLASS C MISDEMEANOR OFFENSES",
 		list = {
@@ -1711,7 +1720,14 @@ Config.MDT.CriminalCode = {
         }
     },
 	
-	-- TRAFFIC VIOLATIONS
+	
+--████████╗██████╗  █████╗ ███████╗███████╗██╗ ██████╗    ██╗   ██╗██╗ ██████╗ ██╗      █████╗ ████████╗██╗ ██████╗ ███╗   ██╗███████╗
+--╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██╔════╝██║██╔════╝    ██║   ██║██║██╔═══██╗██║     ██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+--   ██║   ██████╔╝███████║█████╗  █████╗  ██║██║         ██║   ██║██║██║   ██║██║     ███████║   ██║   ██║██║   ██║██╔██╗ ██║███████╗
+--   ██║   ██╔══██╗██╔══██║██╔══╝  ██╔══╝  ██║██║         ╚██╗ ██╔╝██║██║   ██║██║     ██╔══██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║
+--   ██║   ██║  ██║██║  ██║██║     ██║     ██║╚██████╗     ╚████╔╝ ██║╚██████╔╝███████╗██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║███████║
+--   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝ ╚═════╝      ╚═══╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+-- TRAFFIC VIOLATIONS
 	
 	{
 		label = "TRAFFIC VIOLATIONS - SPEEDING",
@@ -1755,9 +1771,18 @@ Config.MDT.CriminalCode = {
                     label = "0 Months - $600"
                 },
                 description = "Operating any motor vehicle under 15mph of the posted road sign or speed limit or impeding the normal flow of traffic on a highway. Driving a motor vehicle in a way that prevents others from traveling at the posted speed limit or a reasonable pace."
-			},
+			}
+        }
+    },
 	
-	-- GENERAL VIOLATIONS
+
+-- ██████╗ ███████╗███╗   ██╗███████╗██████╗  █████╗ ██╗         ██╗   ██╗██╗ ██████╗ ██╗      █████╗ ████████╗██╗ ██████╗ ███╗   ██╗███████╗
+--██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔══██╗██╔══██╗██║         ██║   ██║██║██╔═══██╗██║     ██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+--██║  ███╗█████╗  ██╔██╗ ██║█████╗  ██████╔╝███████║██║         ██║   ██║██║██║   ██║██║     ███████║   ██║   ██║██║   ██║██╔██╗ ██║███████╗
+--██║   ██║██╔══╝  ██║╚██╗██║██╔══╝  ██╔══██╗██╔══██║██║         ╚██╗ ██╔╝██║██║   ██║██║     ██╔══██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║
+--╚██████╔╝███████╗██║ ╚████║███████╗██║  ██║██║  ██║███████╗     ╚████╔╝ ██║╚██████╔╝███████╗██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║███████║
+-- ╚═════╝ ╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝      ╚═══╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+-- GENERAL VIOLATIONS
 	
 	{
 		label = "TRAFFIC VIOLATIONS - GENERAL",
@@ -2051,9 +2076,18 @@ Config.MDT.CriminalCode = {
                     label = "0 Months - $900"
                 },
                 description = "Operating a vehicle with window tint that mostly obscures the interior of the vehicle from one or more windows."
-			},
+			}
+        }
+    },
 	
-		-- MOTOR VEHICLE VIOLATIONS ACCIDENT INVOLVED
+
+--███╗   ███╗ ██████╗ ████████╗ ██████╗ ██████╗     ██╗   ██╗███████╗██╗  ██╗██╗ ██████╗██╗     ███████╗    ██╗   ██╗██╗ ██████╗ ██╗      █████╗ ████████╗██╗ ██████╗ ███╗   ██╗███████╗     █████╗  ██████╗ ██████╗██╗██████╗ ███████╗███╗   ██╗████████╗    ██╗███╗   ██╗██╗   ██╗ ██████╗ ██╗     ██╗   ██╗███████╗██████╗ 
+--████╗ ████║██╔═══██╗╚══██╔══╝██╔═══██╗██╔══██╗    ██║   ██║██╔════╝██║  ██║██║██╔════╝██║     ██╔════╝    ██║   ██║██║██╔═══██╗██║     ██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝    ██╔══██╗██╔════╝██╔════╝██║██╔══██╗██╔════╝████╗  ██║╚══██╔══╝    ██║████╗  ██║██║   ██║██╔═══██╗██║     ██║   ██║██╔════╝██╔══██╗
+--██╔████╔██║██║   ██║   ██║   ██║   ██║██████╔╝    ██║   ██║█████╗  ███████║██║██║     ██║     █████╗      ██║   ██║██║██║   ██║██║     ███████║   ██║   ██║██║   ██║██╔██╗ ██║███████╗    ███████║██║     ██║     ██║██║  ██║█████╗  ██╔██╗ ██║   ██║       ██║██╔██╗ ██║██║   ██║██║   ██║██║     ██║   ██║█████╗  ██║  ██║
+--██║╚██╔╝██║██║   ██║   ██║   ██║   ██║██╔══██╗    ╚██╗ ██╔╝██╔══╝  ██╔══██║██║██║     ██║     ██╔══╝      ╚██╗ ██╔╝██║██║   ██║██║     ██╔══██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║    ██╔══██║██║     ██║     ██║██║  ██║██╔══╝  ██║╚██╗██║   ██║       ██║██║╚██╗██║╚██╗ ██╔╝██║   ██║██║     ╚██╗ ██╔╝██╔══╝  ██║  ██║
+--██║ ╚═╝ ██║╚██████╔╝   ██║   ╚██████╔╝██║  ██║     ╚████╔╝ ███████╗██║  ██║██║╚██████╗███████╗███████╗     ╚████╔╝ ██║╚██████╔╝███████╗██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║███████║    ██║  ██║╚██████╗╚██████╗██║██████╔╝███████╗██║ ╚████║   ██║       ██║██║ ╚████║ ╚████╔╝ ╚██████╔╝███████╗ ╚████╔╝ ███████╗██████╔╝
+--╚═╝     ╚═╝ ╚═════╝    ╚═╝    ╚═════╝ ╚═╝  ╚═╝      ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝╚══════╝      ╚═══╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝    ╚═╝  ╚═╝ ╚═════╝ ╚═════╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝       ╚═╝╚═╝  ╚═══╝  ╚═══╝   ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═════╝ 
+-- MOTOR VEHICLE VIOLATIONS ACCIDENT INVOLVED
 			
 	{
 		label = "TRAFFIC VIOLATIONS - MOTOR VEHICLE ACCIDENT INVOLVED",
@@ -2067,9 +2101,16 @@ Config.MDT.CriminalCode = {
                     label = "0 Months - $500"
                 },
                 description = "Any traffic violations committed at any time while driving or operating a Commercial Vehicle."
-			},
-		
-	-- COMMERCIAL MOTOR VEHICLE VIOLATIONS
+			}
+        }
+    },
+
+-- ██████  ██████  ███    ███ ███    ███ ███████ ██████   ██████ ██  █████  ██          ███    ███  ██████  ████████  ██████  ██████      ██    ██ ███████ ██   ██ ██  ██████ ██      ███████     ██    ██ ██  ██████  ██       █████  ████████ ██  ██████  ███    ██ ███████ 
+--██      ██    ██ ████  ████ ████  ████ ██      ██   ██ ██      ██ ██   ██ ██          ████  ████ ██    ██    ██    ██    ██ ██   ██     ██    ██ ██      ██   ██ ██ ██      ██      ██          ██    ██ ██ ██    ██ ██      ██   ██    ██    ██ ██    ██ ████   ██ ██      
+--██      ██    ██ ██ ████ ██ ██ ████ ██ █████   ██████  ██      ██ ███████ ██          ██ ████ ██ ██    ██    ██    ██    ██ ██████      ██    ██ █████   ███████ ██ ██      ██      █████       ██    ██ ██ ██    ██ ██      ███████    ██    ██ ██    ██ ██ ██  ██ ███████ 
+--██      ██    ██ ██  ██  ██ ██  ██  ██ ██      ██   ██ ██      ██ ██   ██ ██          ██  ██  ██ ██    ██    ██    ██    ██ ██   ██      ██  ██  ██      ██   ██ ██ ██      ██      ██           ██  ██  ██ ██    ██ ██      ██   ██    ██    ██ ██    ██ ██  ██ ██      ██ 
+-- ██████  ██████  ██      ██ ██      ██ ███████ ██   ██  ██████ ██ ██   ██ ███████     ██      ██  ██████     ██     ██████  ██   ██       ████   ███████ ██   ██ ██  ██████ ███████ ███████       ████   ██  ██████  ███████ ██   ██    ██    ██  ██████  ██   ████ ███████ 
+-- COMMERCIAL MOTOR VEHICLE VIOLATIONS
 		
 	{
 		label = "TRAFFIC VIOLATIONS - COMMERCIAL MOTOR VEHICLE",
@@ -2093,9 +2134,18 @@ Config.MDT.CriminalCode = {
                     label = "0 Months - $1000"
                 },
                 description = "Driving a Commercial Vehicle without a valid Operatord License or Endorsement."
-			},
+			}
+        }
+    },
 	
-	-- HUNTING AND FISHING LAWS
+	
+--██╗  ██╗██╗   ██╗███╗   ██╗████████╗██╗███╗   ██╗ ██████╗      █████╗ ███╗   ██╗██████╗     ███████╗██╗███████╗██╗  ██╗██╗███╗   ██╗ ██████╗     ██╗      █████╗ ██╗    ██╗███████╗
+--██║  ██║██║   ██║████╗  ██║╚══██╔══╝██║████╗  ██║██╔════╝     ██╔══██╗████╗  ██║██╔══██╗    ██╔════╝██║██╔════╝██║  ██║██║████╗  ██║██╔════╝     ██║     ██╔══██╗██║    ██║██╔════╝
+--███████║██║   ██║██╔██╗ ██║   ██║   ██║██╔██╗ ██║██║  ███╗    ███████║██╔██╗ ██║██║  ██║    █████╗  ██║███████╗███████║██║██╔██╗ ██║██║  ███╗    ██║     ███████║██║ █╗ ██║███████╗
+--██╔══██║██║   ██║██║╚██╗██║   ██║   ██║██║╚██╗██║██║   ██║    ██╔══██║██║╚██╗██║██║  ██║    ██╔══╝  ██║╚════██║██╔══██║██║██║╚██╗██║██║   ██║    ██║     ██╔══██║██║███╗██║╚════██║
+--██║  ██║╚██████╔╝██║ ╚████║   ██║   ██║██║ ╚████║╚██████╔╝    ██║  ██║██║ ╚████║██████╔╝    ██║     ██║███████║██║  ██║██║██║ ╚████║╚██████╔╝    ███████╗██║  ██║╚███╔███╔╝███████║
+--╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝     ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝
+-- HUNTING AND FISHING LAWS
 	
 	{
 		label = "HUNTING & FISHING - CLASS A MISDEMEANOR OFFENSES",
@@ -2109,7 +2159,270 @@ Config.MDT.CriminalCode = {
                     label = "0 Months - $2,500"
                 },
                 description = "Hunting or Fishing without a valid hunting/fishing license"
-			},		
+			},
+			{
+				offense = "HF.2 - Possession of Illegal Fish",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 10,
+                    label = "10 Months - $5,000"
+                },
+                description = "Having in your possession 4 or less of any illegal type of fish."
+			},
+			{
+				offense = "HF.3 - Possession of Illegal Fish With Intent to sell",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 10000,
+                    time = 20,
+                    label = "20 Months - $15,000"
+                },
+                description = "Having in your possession Five (5) or more of any illegal type of fish."
+			},
+			{
+				offense = "HF.4 - Continued Capture of Illegal Fish",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 60000,
+                    time = 40,
+                    label = "20 Months - $60,000"
+                },
+                description = "Having in your possession any Illegal fish, after being charged with H.F.2 or H.F.3 (3 times)"
+			},
+			{
+				offense = "HF.5 - Excessive Fishing (Citation)",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 30000,
+                    time = 0,
+                    label = "0 Months - $30,000"
+                },
+                description = "Having in your possession more than fifty (50) of ANY legal type of fish."
+			},
+			{
+				offense = "HF.6 - Unlawful Possession of Sea Turtle",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 2000,
+                    time = 0,
+                    label = "0 Months - $30,000"
+                },
+                description = "Having in your possession a Sea Turtle, or bait made from sea turtle."
+			},
+			{
+				offense = "HF.7 - Unlawful Possession of Shark",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 2000,
+                    time = 0,
+                    label = "0 Months - $30,000"
+                },
+                description = "Having in your possession a Great White Shark/Hammerhead Shark"
+			},
+			{
+				offense = "HF.8 - Posession of Endangered/Rare Fish",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 10,
+                    label = "10 Months - $500"
+                },
+                description = "Having in your possession Puffer or Piranha Fish of any amount"
+			},
+			{
+				offense = "HF.9 - Excessive Hunting",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 250,
+                    time = 0,
+                    label = "0-50 Months - $250"
+                },
+                description = "Having in your possession over 50 Carcasses, 50 Pelts, and 25 Antlers"
+			},
+			{
+				offense = "HF.10 - Illegal Possession of Mountain Lion Pelt",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1000,
+                    time = 0,
+                    label = "0-50 Months - $1,000"
+                },
+                description = "Having in your possession ANY amount of Mountain Lion Pelt"
+			}
+        }
+    },
+			
+
+--███████╗████████╗ █████╗ ████████╗███████╗     ██████╗ ██████╗ ██████╗ ██╗███╗   ██╗ █████╗ ███╗   ██╗ ██████╗███████╗███████╗
+--██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝    ██╔═══██╗██╔══██╗██╔══██╗██║████╗  ██║██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝
+--███████╗   ██║   ███████║   ██║   █████╗      ██║   ██║██████╔╝██║  ██║██║██╔██╗ ██║███████║██╔██╗ ██║██║     █████╗  ███████╗
+--╚════██║   ██║   ██╔══██║   ██║   ██╔══╝      ██║   ██║██╔══██╗██║  ██║██║██║╚██╗██║██╔══██║██║╚██╗██║██║     ██╔══╝  ╚════██║
+--███████║   ██║   ██║  ██║   ██║   ███████╗    ╚██████╔╝██║  ██║██████╔╝██║██║ ╚████║██║  ██║██║ ╚████║╚██████╗███████╗███████║
+--╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝     ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝╚══════╝╚══════╝
+-- STATE ORDINANCES                                                                                                                             
+
+	{
+		label = "STATE ORDINANCES",
+		list = {
+            {
+				offense = "S.O.1 - Public Intoxication",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 50,
+                    time = 0,
+                    label = "0 Months - $50"
+                },
+                description = "Being drunk or otherwise intoxicated to a degree that the person presents a danger to themselves or other whilst in a public place."
+			},
+			{
+				offense = "S.O.2 - Jaywalking",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150,
+                    time = 0,
+                    label = "0 Months - $150"
+                },
+                description = "1. The international and knowing crossing of a road outside of a crosswalk or otherwise authorized area 2. Crossing a street diagonally and not in a straight line 3. Failure to use a sidewalk when one is available."
+			},
+			{
+				offense = "S.O.3 - Loitering",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100,
+                    time = 0,
+                    label = "0 Months - $100"
+                },
+                description = "Remaining at a location without any apparent purpose and after being told to leave or vacate the premise."
+			},
+			{
+				offense = "S.O.4 - Trespassing 1st Offence",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 600,
+                    time = 0,
+                    label = "0 Months - $600"
+                },
+                description = "Remaining at a location without any apparent purpose and after being told to leave or vacate the premise."
+			},
+			{
+				offense = "S.O.5 - Fare Evasion",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150,
+                    time = 0,
+                    label = "0 Months - $150"
+                },
+                description = "Failure to pay or provide payment for fare of public or private transportation."
+			},
+			{
+				offense = "S.O.6 - Urinating or Defecating in a Public or Unauthorized Location",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 200,
+                    time = 0,
+                    label = "0 Months - $200"
+                },
+                description = "Urinating or defecating in a public place outside an appropriate facility or bathroom within the city limits or near a public roadway."
+			},
+			{
+				offense = "S.O.7 - Littering",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 100,
+                    time = 0,
+                    label = "0 Months - $100"
+                },
+                description = "Depositing solid waste on roads, sidewalks, yards, or other public areas outside of proper waste receptacles."
+			},
+			{
+				offense = "S.O.8 - Noise Violation",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 150,
+                    time = 0,
+                    label = "0 Months - $150"
+                },
+                description = "The creation of any unnecessary noise or sound intended to annoy, disturb, or otherwise endangers the comfort and peace of others."
+			}
+        }
+    },
+
+
+--██╗   ██╗███████╗██╗  ██╗██╗ ██████╗██╗     ███████╗    ██████╗ ███████╗ ██████╗ ██╗███████╗████████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗       ██╗       ██╗     ██╗ ██████╗███████╗███╗   ██╗███████╗██╗███╗   ██╗ ██████╗     ██████╗ ██╗   ██╗██╗      █████╗ ██╗    ██╗███████╗
+--██║   ██║██╔════╝██║  ██║██║██╔════╝██║     ██╔════╝    ██╔══██╗██╔════╝██╔════╝ ██║██╔════╝╚══██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║       ██║       ██║     ██║██╔════╝██╔════╝████╗  ██║██╔════╝██║████╗  ██║██╔════╝     ██╔══██╗╚██╗ ██╔╝██║     ██╔══██╗██║    ██║██╔════╝
+--██║   ██║█████╗  ███████║██║██║     ██║     █████╗      ██████╔╝█████╗  ██║  ███╗██║███████╗   ██║   ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║    ████████╗    ██║     ██║██║     █████╗  ██╔██╗ ██║███████╗██║██╔██╗ ██║██║  ███╗    ██████╔╝ ╚████╔╝ ██║     ███████║██║ █╗ ██║███████╗
+--╚██╗ ██╔╝██╔══╝  ██╔══██║██║██║     ██║     ██╔══╝      ██╔══██╗██╔══╝  ██║   ██║██║╚════██║   ██║   ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║    ██╔═██╔═╝    ██║     ██║██║     ██╔══╝  ██║╚██╗██║╚════██║██║██║╚██╗██║██║   ██║    ██╔══██╗  ╚██╔╝  ██║     ██╔══██║██║███╗██║╚════██║
+-- ╚████╔╝ ███████╗██║  ██║██║╚██████╗███████╗███████╗    ██║  ██║███████╗╚██████╔╝██║███████║   ██║   ██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║    ██████║      ███████╗██║╚██████╗███████╗██║ ╚████║███████║██║██║ ╚████║╚██████╔╝    ██████╔╝   ██║   ███████╗██║  ██║╚███╔███╔╝███████║
+--  ╚═══╝  ╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝╚══════╝╚══════╝    ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝    ╚═════╝      ╚══════╝╚═╝ ╚═════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═════╝    ╚═╝   ╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝
+-- 	VEHICLE REGISTRATION & LICENSING BYLAWS
+
+	{
+		label = "VEHICLE REGISTRATION & LICENSING BYLAWS",
+		list = {
+            {
+				offense = "DMV.01 - Operating a Motor Vehicle that is unregistered",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 800,
+                    time = 0,
+                    label = "0 Months - $800"
+                },
+                description = "It is a 1st Degree Misdemeanour to be observed operating a motor vehicle or motorcycle that is unregistered or uninsured."
+			},
+			{
+				offense = "DMV.02 - Failure to Produce Vehicular Documentation",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 500,
+                    time = 0,
+                    label = "0 Months - $500"
+                },
+                description = "Failing to produce Vehicular Documentation, having registered your motor vehicle/motor cycle (Registration/Insurance)"
+			},
+			{
+				offense = "DMV.03 - Vehicle Accident involving unregistered vehicle or no insurance",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 5000,
+                    time = 0,
+                    label = "0 Months - $5,000"
+                },
+                description = "It is a 3rd Degree Felony to be involved in a motor vehicle accident and the vehicle not being registered or having insurance"
+			},
+			{
+				offense = "DMV.04 - Utilizing an unregistered vehicle for the comission of a crime",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 25000,
+                    time = 50,
+                    label = "50 Months - $25,000"
+                },
+                description = "It is a 2nd Degree Felony to use an unregistered motor vehicle for the commission of any other felony and shall be subjected to an additional 20 months"
+			},
+			{
+				offense = "DMV.05 - Expired Insurance",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 1000,
+                    time = 0,
+                    label = "0 Months - $1,000"
+                },
+                description = "It is a 2nd Degree Misdemeanour to be observed operating a motor vehicle with expired insurance"
+			},
+			{
+				offense = "DMV.06 - Expired Registration",
+                class = "Misdemeanor",
+                punishment = {
+                    fine = 2000,
+                    time = 0,
+                    label = "0 Months - $2,000"
+                },
+                description = "It is a 1st Degree Misdemeanour to be observed operating a motor vehicle with expired registration"
+			}
+        }
+    },
+}	
 	    	-----------------------------------------------------------------------------------------
 	    ---------------------------------------------------------------------------------------
 	---------------------------------------------------------------------------------------
